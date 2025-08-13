@@ -563,7 +563,7 @@ function App() {
         <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="text-center">
             <p className={(darkMode ? 'text-gray-400' : 'text-gray-600') + ' font-bold font-inter'}>
-              © 2024 PixelKraft. All rights reserved. | Crafted with passion for visual excellence.
+              © 2024 LerenceGraphics. All rights reserved. | Crafted with passion for visual excellence.
             </p>
           </div>
         </div>
