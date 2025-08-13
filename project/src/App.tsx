@@ -220,8 +220,10 @@ function App() {
             {/* Profile Photo */}
             <div className="relative">
               <div className="w-64 h-64 overflow-hidden border-4 border-green-400 rounded-full shadow-2xl lg:w-80 lg:h-80 animate-fade-in">
+
+                //ProfessionalPortrait.png
                 <img
-                  src="Professional Portrait.png"
+                  src="asheerwad-portfolio/ProfessionalPortrait.png"
                   alt="Profile"
                   className="object-cover w-full h-full transition-transform duration-700 ease-out transform hover:scale-105"
                 />
