@@ -74,34 +74,34 @@ function App() {
       id: 1,
       title: "Discord Poster",
       category: "posters",
-      image: "YUNG KAI Poster.png",
+      image: "/asheerwad-portfolio/YUNG KAI Poster.png",
       description: "Vibrant music event poster with bold colors and dynamic composition.",
       subcategory: "Concert Posters",
       gallery: [
-        "YUNG KAI Poster.png",
-        "Metaversity Event Poster.png"
+        "/asheerwad-portfolio/YUNG KAI Poster.png",
+        "/asheerwad-portfolio/Metaversity Event Poster.png"
       ]
     },
     {
       id: 2,
       title: "YouTube Gaming Thumbnail",
       category: "thumbnails",
-      image: "Youtube-Thumbnails.png",
+      image: "/asheerwad-portfolio/Youtube-Thumbnails.png",
       description: "High-conversion gaming thumbnail with dramatic lighting and bold text.",
       subcategory: "Gaming Thumbnails",
       gallery: [
-        "THMB1-Recovered.jpg",
-        "Kaiser Equipped PNG.png",
-        "LENZIFF HIGLIGHT1.jpg",
-        "LENZIFF IS LIVE.jpg",
-        "Conqueror Push 16% Vignnette.png",
+        "/asheerwad-portfolio/THMB1-Recovered.jpg",
+        "/asheerwad-portfolio/Kaiser Equipped PNG.png",
+        "/asheerwad-portfolio/LENZIFF HIGLIGHT1.jpg",
+        "/asheerwad-portfolio/LENZIFF IS LIVE.jpg",
+        "/asheerwad-portfolio/Conqueror Push 16% Vignnette.png",
       ]
     },
     {
       id: 3,
       title: "Motion Graphics Intro",
       category: "motion",
-      image: "https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=400",
+      image: "https://images.pexels.com/photos/3069868/pexels-photo-3069868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       description: "Animated logo reveal with particle effects and dynamic transitions.",
       subcategory: "Logo Animations",
       gallery: [ <video src="One for all.mp4">One for All</video>,
@@ -527,7 +527,7 @@ function App() {
             >
               <div className="w-16 h-16 mb-4 overflow-hidden transition-transform duration-300 rounded-full shadow-lg group-hover:scale-110">
                 <img
-                  src="Instagram_icon.png"
+                  src="/asheerwad-portfolio/Instagram_icon.png"
                   alt="Instagram"
                   className="object-cover w-full h-full"
                 />
@@ -546,7 +546,7 @@ function App() {
             >
               <div className="w-16 h-16 mb-4 overflow-hidden transition-transform duration-300 rounded-full shadow-lg group-hover:scale-110">
                 <img
-                  src="discord_icon.png"
+                  src="/asheerwad-portfolio/discord_icon.png"
                   alt="Discord"
                   className="object-cover w-full h-full"
                 />
